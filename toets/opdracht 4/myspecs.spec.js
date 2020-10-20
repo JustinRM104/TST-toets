@@ -9,3 +9,6 @@ describe('voorbeeld.js', function () {
         expect(example.aantal).toBeGreaterThanOrEqual(2);
     });
 });
+
+// jasmine init heb je nodig om structuur te maken.
+// jasmine
